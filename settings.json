@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Sylvesque",
+    "username": "an7gr",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "AnimeIsCool"
+      "password": "n00bn00bn00"
     },
     "anti-afk": {
       "enabled": false,
